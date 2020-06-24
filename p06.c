@@ -8,7 +8,7 @@
 #define  akunGitHub "hnsmchl"
 #include "p00.h"
 
-char*    progs[]={P01, P02, P03, P04, P05, P06, P07};
+char*    progs[]={P01, P02, P03, P04, P05, P06};
 myshare* mymap;
 
 int init(void) {
