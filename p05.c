@@ -4,7 +4,7 @@
  */
 
 // adjust DELAY and akunGitHub
-#define  DELAY 5
+#define  DELAY 4
 #define  akunGitHub "naufal-prakoso"
 #include "p00.h"
 
